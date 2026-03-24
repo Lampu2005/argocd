@@ -1,0 +1,5 @@
+apiVersion: v2
+name: argocd-keycloak-chart
+description: Helm chart per Keycloak + PostgreSQL 18 su Kubernetes
+version: 0.1.0
+appVersion: "1.0"
