@@ -21,6 +21,8 @@ spec:
           value: postgres
         - name: KC_DB_URL_HOST
           value: postgres
+        - name: KC_DB_URL_DATABASE
+          value: mydb
         - name: KC_DB_USERNAME
           value: user
         - name: KC_DB_PASSWORD
